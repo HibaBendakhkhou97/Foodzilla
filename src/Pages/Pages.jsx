@@ -9,6 +9,7 @@ function Pages() {
     <Nav />
     <Routes>
      <Route path='/' element={<Main />} />
+      <Route path='/appone' element={<Main />} />
      <Route path='/Menu' element={<Menu />} />
      <Route path='/Recipe' element={<Recipe />} />
      <Route path='/Contact' element={<Contact />} />

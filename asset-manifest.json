@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/appone/static/css/main.543dd765.css",
+    "main.js": "/appone/static/js/main.80b0e5b6.js",
+    "static/media/bgVideo.mp4": "/appone/static/media/bgVideo.b987ceed69d0ad3b6f4f.mp4",
+    "static/media/Patisserite.png": "/appone/static/media/Patisserite.09475600a9023dfed66f.png",
+    "static/media/steck.png": "/appone/static/media/steck.5a38fbf1c5b72f860657.png",
+    "static/media/noodles.png": "/appone/static/media/noodles.6a1d42ac7fbb541d3d2d.png",
+    "static/media/burger.png": "/appone/static/media/burger.9586741c985f1e4668bc.png",
+    "static/media/spoon.png": "/appone/static/media/spoon.3212ea3dc050027b4292.png",
+    "static/media/tookbokki.png": "/appone/static/media/tookbokki.08135791b94d4ceb0aaf.png",
+    "static/media/ramen.png": "/appone/static/media/ramen.3c0b3d204a2cb5c31560.png",
+    "static/media/tortlla.png": "/appone/static/media/tortlla.602a454dfc61b768a90f.png",
+    "static/media/milleFeuille.png": "/appone/static/media/milleFeuille.82bd8108372915e4936c.png",
+    "static/media/chef2.jpeg": "/appone/static/media/chef2.6b87208e9516b3f6c458.jpeg",
+    "static/media/tiramisu.png": "/appone/static/media/tiramisu.7c27036e2730f908b228.png",
+    "static/media/soup.png": "/appone/static/media/soup.90022732cf01ab32d2ea.png",
+    "static/media/mochi.jpg": "/appone/static/media/mochi.6f61bc03b0ac3a48b804.jpg",
+    "static/media/plat.png": "/appone/static/media/plat.5aa10a343a16943dc6af.png",
+    "static/media/greenChef.png": "/appone/static/media/greenChef.11e4ff2f3f12d6575777.png",
+    "static/media/blackChef.png": "/appone/static/media/blackChef.91b3e888ab51c4d428ba.png",
+    "static/media/chef1.jpg": "/appone/static/media/chef1.a9405102cd83c74be49f.jpg",
+    "static/media/location.png": "/appone/static/media/location.992d3c92b77346b6aac1.png",
+    "static/media/phone.png": "/appone/static/media/phone.d5fdd1a5d56e5aff6f7d.png",
+    "static/media/email.png": "/appone/static/media/email.91581b791184e34f7d12.png",
+    "static/media/FOODZILLA.png": "/appone/static/media/FOODZILLA.d01b32b2ae3199726f8f.png",
+    "index.html": "/appone/index.html",
+    "main.543dd765.css.map": "/appone/static/css/main.543dd765.css.map",
+    "main.80b0e5b6.js.map": "/appone/static/js/main.80b0e5b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543dd765.css",
+    "static/js/main.80b0e5b6.js"
+  ]
+}
